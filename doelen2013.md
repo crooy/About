@@ -25,4 +25,4 @@ Materieel:
 Professioneel:
 -----------
 - [ ] Ik word betrokken bij het thema innovatie binnen Sioux. 
-- [ ] Ik ben met success verantwoordelijk voor mijn eigen planning.
+- [ ] Ik ben met success verantwoordelijk voor de planning van mijn projecten. 
