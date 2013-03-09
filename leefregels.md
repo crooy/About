@@ -9,7 +9,7 @@ Emotioneel:
 
   1. Ik minimaliseer actief de ongemakken in mijn leven.
   2. Ik neem mijn werk en bijhorende zorgen niet mee naar huis.
-  3. Ik ben een positieve factor in het leven van mijn naasten.
+  3. Ik ben zorg voor positieve energie.
 
   
 Actief:
