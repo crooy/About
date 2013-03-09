@@ -11,7 +11,7 @@ Actief:
 Sociaal:
 -----------
 - [ ] Minstens 3 leuke grote feesten in ons huisje.
-- [ ] Minstens 2 keer per maand een Ronald en Judith avond met alleen lezen of praten.
+- [ ] Minstens 2 keer per maand een Ronald en Judith avond met alleen praten.
 
 Fysiek:
 -----------
