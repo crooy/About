@@ -1,8 +1,5 @@
 
-
-
    * enthousiasme
-
    * make-stuff
    * relax
    * open
@@ -10,6 +7,5 @@
    * flexibiliteit
    * schoonheid
    * onafhankelijk
-
+   * zorgzaam
    * onderscheidend
-
