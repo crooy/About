@@ -3,6 +3,7 @@ Algemeen:
 ---------
 
   1. Do or do not, there is not try.
+  2. Ik waak ervoor dat ik mijn focus bewaar en niet in routine val.
 
 Emotioneel:
 -----------
@@ -48,6 +49,5 @@ Materieel:
 Professioneel:
 --------------
 
-  1. Ik waak ervoor dat ik mijn focus bewaar en niet in routine val.
-  2. Ik let op mijn planning.
-  3. Ik ben altijd op de hoogte van nieuwe nuttige technologieën en tools
+  1. Ik let op mijn planning.
+  2. Ik ben altijd op de hoogte van nieuwe nuttige technologieën en tools
