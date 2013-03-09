@@ -7,10 +7,9 @@ Algemeen:
 Emotioneel:
 -----------
 
-  1. Ik beperk me tot het zorgen maken om de dingen die er toe doen.
+  1. Ik minimaliseer actief de ongemakken in mijn leven.
   2. Ik neem mijn werk en bijhorende zorgen niet mee naar huis.
   3. Ik ben een positieve factor in het leven van mijn naasten.
-
 
   
 Actief:
