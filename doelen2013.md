@@ -6,7 +6,7 @@ Actief:
 -----------
 - [ ] Roos zal voor het eind van 2013 mijn sleutels kunnen opsporen. 
 - [ ] de moestuin en het terras zijn af, met stenen oven/bbq
-- [ ] De schuur word mijn nieuwe werkplek.
+- [ ] De schuur wordt mijn nieuwe werkplek.
 
 Sociaal:
 -----------

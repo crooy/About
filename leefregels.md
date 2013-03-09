@@ -24,7 +24,7 @@ Actief:
 Sociaal:
 -------
 
-  1. Ik vergeet niet om regelmatig vrienden en familie banden te onderhouden.
+  1. Ik vergeet niet om regelmatig vrienden en familiebanden te onderhouden.
   2. Ik werk hard voor wat ik wil bereiken, en help mijn naasten met hun doelen te bereiken.
   3. Ik onderschat anderen niet.
   4. Ik luister met aandacht naar anderen.
