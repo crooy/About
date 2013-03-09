@@ -42,6 +42,7 @@ Materieel:
   1. Ik verdien genoeg zodat ik geld over heb om te sparen.
   2. Ik zorg ervoor dat mijn gezin in comfort leeft, en zonder zorgen.
   3. Ik koop alleen kwaliteit, en liefst ouderwetste kwaliteit.
+  4. Ik bewaar geen meuk die ik niet gebruik.
 
 
 Professioneel:
