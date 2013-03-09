@@ -11,7 +11,7 @@
 
 
   Actief:
-=
+
   1. Ik plan altijd iets leuks in het vooruitzicht.
   2. Ik blijf actief uitdagingen en vernieuwing zoeken.
   3. Ik ga regelmatig iets met de honden doen. (niet smart)
