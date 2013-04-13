@@ -1,7 +1,10 @@
+Ik maak dingen!
 
-Ik geniet van elk moment, 
-alleen en samen met vrienden. 
-Bovendien zoek ik regelmatig de rust op in de natuur.
+Ik geniet van elk moment,
+alleen en samen met vrienden,
+en familie. 
+Deze kunnen rekenen op mijn hulp en steun,
+en op goede spijzen en dranken.
 
 Mijn omgeving is,
 en de mensen daarin zijn,
