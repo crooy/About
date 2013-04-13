@@ -2,9 +2,12 @@
 Ik geniet van elk moment, 
 alleen en samen met vrienden. 
 Bovendien zoek ik regelmatig de rust op in de natuur.
-Ik daag mezelf uit om mooie nuttige dingen te maken, 
-en om nieuwe skills te vergaren. 
-Ik omring mezelf met mensen waar ik tegen op kijk, 
-veel van leer, 
-en die mij waarderen. 
-Ik zorg voor mijn naasten en help of bescherm ze indien nodig. 
+
+Mijn omgeving is,
+en de mensen daarin zijn,
+dynamisch, gedreven,
+uitdagend en inspirerend,
+waardoor ik continue kan leren,
+en uitproberen. 
+Zij heeft reden om mij te waarderen,
+te vertrouwen.
