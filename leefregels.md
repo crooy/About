@@ -17,8 +17,9 @@ Actief:
 -------
 
   1. Ik plan altijd iets leuks in het vooruitzicht.
-  2. Ik blijf actief uitdagingen en vernieuwing zoeken.
-  3. Ik ga regelmatig iets met de honden doen. (niet smart)
+  2. Er wordt in mijn huis goed gegeten en goed gedronken, kwaliteit boven kwantiteit!
+  3. Ik blijf actief uitdagingen en vernieuwing zoeken.
+  4. Ik ga regelmatig iets met de honden doen. (niet smart)
 
 
 Sociaal:
