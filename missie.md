@@ -13,4 +13,8 @@ uitdagend en inspirerend,
 waardoor ik continue kan leren,
 en uitproberen. 
 Zij heeft reden om mij te waarderen,
-te vertrouwen.
+te vertrouwen, 
+en mogelijk tegen mij opkijken.
+Tegelijkertijd kan ik ook tegen hen opkijken,
+van hen leren, 
+en hen vertrouwen.
