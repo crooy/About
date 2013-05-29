@@ -4,9 +4,8 @@ In 2013 zorg ik ervoor dat ik mijn vrienden en familie minstens een keer per maa
 
 Actief:
 -----------
-- [ ] Roos zal voor het eind van 2013 mijn sleutels kunnen opsporen. 
 - [ ] de moestuin en het terras zijn af, met stenen oven/bbq
-- [ ] De schuur wordt mijn nieuwe werkplek.
+- [x] De schuur wordt mijn nieuwe werkplek.
 
 Sociaal:
 -----------
@@ -20,9 +19,9 @@ Fysiek:
 Materieel:
 -----------
 - [ ] Minimaal 100 euro per maand kunnen sparen voor het eind van het jaar.
-- [ ] Een kas of een bad voor Judith.
+- [x] Een kas voor Judith.
+- [ ] Een bad voor Judith.
 
 Professioneel:
 -----------
-- [ ] Ik word betrokken bij het thema innovatie binnen Sioux. 
-- [ ] Ik ben met success verantwoordelijk voor de planning van mijn projecten. 
+- [ ] Ik maak een mooie snelle stabiele Withlocals website
