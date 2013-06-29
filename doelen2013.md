@@ -4,13 +4,15 @@ In 2013 zorg ik ervoor dat ik mijn vrienden en familie minstens een keer per maa
 
 Actief:
 -----------
-- [ ] de moestuin en het terras zijn af, met stenen oven/bbq
+- [x] de moestuin is af
+- [ ] het terras zijn af
+- [ ] stenen oven/bbq
 - [x] De schuur wordt mijn nieuwe werkplek.
 
 Sociaal:
 -----------
 - [ ] Minstens 3 leuke grote feesten in ons huisje.
-- [ ] Minstens 2 keer per maand een Ronald en Judith avond met alleen praten.
+- [ ] Elke maand een verrassing/date met judith.
 
 Fysiek:
 -----------
@@ -24,4 +26,5 @@ Materieel:
 
 Professioneel:
 -----------
-- [ ] Ik maak een mooie snelle stabiele Withlocals website
+- [ ] als CTO bij Withlocals zal ik door mijn collega's ervaren worden als een fijne collega, inspirerende coach, en als alwetende techneut.
+
