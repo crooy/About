@@ -1,4 +1,4 @@
-Ik maak dingen!
+Ik daag mezelf uit om mooie nuttige dingen te maken, en om nieuwe skills te vergaren. 
 
 Ik geniet van elk moment,
 alleen en samen met vrienden,
@@ -18,3 +18,5 @@ en mogelijk tegen mij opkijken.
 Tegelijkertijd kan ik ook tegen hen opkijken,
 van hen leren, 
 en hen vertrouwen.
+
+
