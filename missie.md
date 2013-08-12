@@ -14,7 +14,7 @@ waardoor ik continue kan leren,
 en uitproberen. 
 Zij heeft reden om mij te waarderen,
 te vertrouwen, 
-en mogelijk tegen mij opkijken.
+en tegen mij op te kijken.
 Tegelijkertijd kan ik ook tegen hen opkijken,
 van hen leren, 
 en hen vertrouwen.
