@@ -20,11 +20,11 @@ Fysiek:
 
 Materieel:
 -----------
-- [ ] Minimaal 100 euro per maand kunnen sparen voor het eind van het jaar.
+- [x] Minimaal 100 euro per maand kunnen sparen voor het eind van het jaar.
 - [x] Een kas voor Judith.
 - [ ] Een bad voor Judith.
 
 Professioneel:
 -----------
-- [ ] als CTO bij Withlocals zal ik door mijn collega's ervaren worden als een fijne collega, inspirerende coach, en als alwetende techneut.
+- [x] als CTO bij Withlocals zal ik door mijn collega's ervaren worden als een fijne collega, inspirerende coach, en als alwetende techneut.
 
