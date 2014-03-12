@@ -1,54 +1,46 @@
 
-Algemeen:
+Overal:
 ---------
 
   1. Do or do not, there is not try.
   2. Ik waak ervoor dat ik mijn focus bewaar en niet in routine val.
+  2. I do not let myself get distracted by routine life.
+  1. I always have a fun thing planned
+  2. There is always good food and drinks in my house.
+  3. Ik blijf actief uitdagingen en vernieuwing zoeken.
+  3. I keep challenging myself and others.
 
-Emotioneel:
+Emotional:
 -----------
 
-  1. Ik minimaliseer actief de ongemakken in mijn leven.
-  2. Ik neem mijn werk en bijhorende zorgen niet mee naar huis.
-  3. Ik ben zorg voor positieve energie.
-
+  1. I only spend energy on things that matter.
+  2. Do not worry
   
-Actief:
+
+Social:
 -------
 
-  1. Ik plan altijd iets leuks in het vooruitzicht.
-  2. Er wordt in mijn huis goed gegeten en goed gedronken, kwaliteit boven kwantiteit!
-  3. Ik blijf actief uitdagingen en vernieuwing zoeken.
-  4. Ik ga regelmatig iets met de honden doen. (niet smart)
+  1. I must not forget to spend time on friends and family
+  2. I allow myself to work hard, but I maintain a healthy balance.
+  3. I must never underestimate others.
+  4. I actually listen to people
 
 
-Sociaal:
+Fysical:
 -------
 
-  1. Ik vergeet niet om regelmatig vrienden en familiebanden te onderhouden.
-  2. Ik werk hard voor wat ik wil bereiken, en help mijn naasten met hun doelen te bereiken.
-  3. Ik onderschat anderen niet.
-  4. Ik luister met aandacht naar anderen.
+  1. I am fit, period.
 
-
-Fysiek:
--------
-
-  1. Ik hou mijn lichaam strak en sexy :-)
-  2. Ik zorg dat ik er verzorgd uit zie.
-
-
-Materieel:
+Material:
 ---------
 
-  1. Ik verdien genoeg zodat ik geld over heb om te sparen.
-  2. Ik zorg ervoor dat mijn gezin in comfort leeft, en zonder zorgen.
-  3. Ik koop alleen kwaliteit, en liefst ouderwetste kwaliteit.
-  4. Ik bewaar geen meuk die ik niet gebruik.
+  1. When I buy something, something else must go.
+  2. I do not own junk, only quality, preferably old quality
+  3. I take care of my family
 
 
-Professioneel:
+Professional:
 --------------
 
-  1. Ik let op mijn planning.
-  2. Ik ben altijd op de hoogte van nieuwe nuttige technologieën en tools
+  1. I must plan, and re-plan, and keep track of planning
+
