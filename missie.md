@@ -1,4 +1,5 @@
-Ik daag mezelf uit om mooie nuttige dingen te maken, en om nieuwe skills te vergaren. 
+Ik daag mezelf uit om mooie nuttige dingen te maken,
+en om nieuwe skills te vergaren. 
 
 Ik geniet van elk moment,
 alleen en samen met vrienden,
@@ -12,7 +13,7 @@ dynamisch, gedreven,
 uitdagend en inspirerend,
 waardoor ik continue kan leren,
 en uitproberen. 
-Zij heeft reden om mij te waarderen,
+Zij hebben reden om mij te waarderen,
 te vertrouwen, 
 en tegen mij op te kijken.
 Tegelijkertijd kan ik ook tegen hen opkijken,
