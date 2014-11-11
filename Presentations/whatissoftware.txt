@@ -1,0 +1,98 @@
+What is software?
+
+core message:
+A piece of Software is neither a building, nor a machine, but a living thing that needs to survive, and adapt, in a fast changing environment. 
+This means that you are not a construction worker, it means you are it's parent. You are responsible for shaping it to ensure it's survival.
+Ensure that your software can be easily changed by you or others to ensure it's survival.
+
+
+
+Did anybody here ever tried to explain what software is to a noob?
+Who here  tried to compare software to buildings? or machines? books perhaps? art?
+The insight that I am about to share with you, will change the way you look at software.
+This talk will save your product from eternal damnation.
+
+Ok, lets start with the building analogy. The eiffeltower is a building that can be classified as a success right?
+So who build the eiffel tower? Gustave Eiffel right? 
+
+Wrong. Gustave Eiffel initially saw the design that was made by two of his engineers, Maurice Koechlin and Émile Nouguier, but was only marginally interested.
+It was only after Stephen Sauvestre, the head of Eiffel's architectural department, added some stuff to the design, that Eiffel was interested.
+He bought the rights from the two engineers, that is all.
+
+So did the two engineers or the architect build the eiffel tower? No, all they did was putting the idea on paper.
+
+After Eiffel bought the designs he displayed them on various engineering and design conferences, but it took many years before the French Minister of Trade invested
+in the eiffel tower. The french governement paid for more than a quarter of the Eiffel tower, the rest was paid by Eiffel.
+The project was then lead by an architect named Charles Garnier, with a number of important architects on his side. 
+
+So did Charles Garnier built the Eiffel tower? No, he drew a lot of plans and had a number of other famous architects to finish those plans.
+The internet tells us that about 300 people were directly employed to construc the eiffel tower, however that number is excluding third parties that were 
+contracted for materials or specific jobs.
+
+Those 300+ men built the eiffel tower.
+
+However they needed complete organisation with various architects to built it.
+The construction workers simply followed the orders given to them, only solving small issues without bother an architect.
+The architects never ever held any tools in their hands. 
+
+Compare this to a piece of software like Facebook.
+Did mark zuckerburg make Facebook?
+Yes he did, There is evidence he still checked in code in 2010. 
+
+Did he have help? Yes, he did. But those guys were not 'construction workers', they were equally skilled programmers.
+Mark Zuckerburg his personal skills, business skills, and the fact that he started the project makes him the primary creator.
+
+So is software compareable buildings, no it is not.
+
+Let me share with you one of the insights this gave me.
+
+If software is not a building, that means that you are not architects, nor construction workers. 
+Yes there are some that are better at keeping an overview of the
+product as a whole. But each developer is responsible for a small piece of the architecture as a whole.
+You are both the architect and the construction worker. 
+You can, no you must, think about what your choices mean for the architecture as a whole. 
+Not just weld togheter steel beams.
+You can improve the design and make your product 'pretty'.
+Not just paint it in the colors someone told you.
+You are not just a construction worker, you are the architect.
+
+Does anybody know when the eiffel tower was done?
+
+The eiffel tower finished construction 15 March 1889 ... and then it was Done.
+
+When did facebook finish construction?
+
+February 2004 Mark Zuckerburg launched thefacebook.com, is it done? No, it will never be done. 
+Because software is not a building.
+Your software will not be 'finished', it will keep growing, but most importantly it will keep changing.
+
+We will come back to that later. First let's discuss the comparison to electronics.
+I am not talking about your iPhone because that contains mostly software. 
+No I am talking about old transitor radio's, I am talking about old calculators,
+about cold war nuclear weapons,
+about the boot sector on your mother board.
+about the CPU in your phone or the GPU.
+I am talking about things like FPGA's
+
+Explain FPGA
+
+Now CPU's, GPU's and FPGA's are very much comparable to software right? 
+They perform complex tasks, are constanlty redesigned, etc. etc.
+Some electronics, like FPGA's can be even chang its behaviour when you want...
+just not very easily, you have to firs change the original programming.
+That must be then write it onto the FPGA. And then you hope it does not literally burn.
+
+Now as you already guessed, eletronics are not software.
+But what is the big difference?
+
+Eletronics are highly optimized for certain goals. 
+Some are build for reliability like cold war weapons.
+Some are cheap to produce like old radio's.
+Some are incredibly fast, like CPU's and FPGA's. 
+Any program you write can be copied using electronics with things like transistors.
+They will be faster and use less power. So why does the world now rely on software and less on electronics?
+
+hope someone will answer correctly.
+
+The ability to change behaviour in a short time, with little risk.
+
