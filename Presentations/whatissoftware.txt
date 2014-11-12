@@ -7,6 +7,32 @@ Ensure that your software can be easily changed by you or others to ensure it's 
 
 
 
+1. eiffel tower
+  - how built it?
+  Gustav Eiffel
+  - engineers
+  Emile and Maurice
+  - architect
+  Stephen Sauvestre
+  - World exposition 
+  charles garnier
+  300 construction workers
+  -facebook
+  you are not just construction workers
+
+  finished? march 1889
+  thefacebook.com 2004
+
+  PCB, GPU, CPU, transistors, and most of all FPGA's and PLC's
+  field programmable gate array
+  logic gates
+  
+  - electronics can literely do anything software can,
+ 
+  
+  
+
+--------------------------
 Did anybody here ever tried to explain what software is to a noob?
 Who here  tried to compare software to buildings? or machines? books perhaps? art?
 The insight that I am about to share with you, will change the way you look at software.
@@ -69,30 +95,78 @@ Your software will not be 'finished', it will keep growing, but most importantly
 We will come back to that later. First let's discuss the comparison to electronics.
 I am not talking about your iPhone because that contains mostly software. 
 No I am talking about old transitor radio's, I am talking about old calculators,
-about cold war nuclear weapons,
-about the boot sector on your mother board.
-about the CPU in your phone or the GPU.
+about PCB's and PLC's
+about CPU's and  GPU's
 I am talking about things like FPGA's
 
 Explain FPGA
 
 Now CPU's, GPU's and FPGA's are very much comparable to software right? 
 They perform complex tasks, are constanlty redesigned, etc. etc.
-Some electronics, like FPGA's can be even chang its behaviour when you want...
-just not very easily, you have to firs change the original programming.
-That must be then write it onto the FPGA. And then you hope it does not literally burn.
 
-Now as you already guessed, eletronics are not software.
-But what is the big difference?
+Is software a electronical device?
+ hell software can't even run without electronics.
+  And faster too, a state of the art FPGA programmed properly
+  is faster than any software that performs the same task.
+  The parallella boards have and FPGA-based GPU by the way, which according to their blogs was
+  one of the main things they underestimated, and one of the many causes for their enormous delay in delivery.
 
-Eletronics are highly optimized for certain goals. 
-Some are build for reliability like cold war weapons.
-Some are cheap to produce like old radio's.
-Some are incredibly fast, like CPU's and FPGA's. 
-Any program you write can be copied using electronics with things like transistors.
-They will be faster and use less power. So why does the world now rely on software and less on electronics?
+  Now I have never programmed FPGA's or devices alike, but I have been told that it is
+  not a simple task. Effectively your program will be converted into a large boolean expression
+  so a lot of AND's and OR's and NOT's. which is then written onto the FPGA.
+  and when you turn on your hardware you hope it does not start smoking.
+  Which is where the term 'smoke test' originates from by the way.
+  
+  But software is not electronics.
+  And you know why?
+  beceuse Software is easily changed.
+  Your iphone can update it's operating system but it does not update the hardware.
+  Altough FPGA's are perhaps faster, they are not easily created nor changed.
+  And it is not just that it CAN change, it must change.
+  
+  Why does Mark Zuckerburg keep changing facebook?
+  He changes not just to improve it but because the environment it lives in changes.
+  What started as a university only website, is now on your phone, there like buttons,
+  Withlocals has machine which sole task is to display the current number of likes.
 
-hope someone will answer correctly.
+  Let me tell you what software is
+  Software is a living thing, that is constantly improving and evolving to survive in a changing environment.
+  And as such we are not it's creators, nor are why it's parents, we are the gods that look down and shape it.
+  It does not matter whether you are lead developer or designer or front end or backend.
+  each of us can crucially influence the chances of it's survival.
+  
+  And sometimes you realize you accidentally taught it to do the wrong things,
+  now the good thing about software is that you can simply remove parts of it.
+  Sometimes it is necessary for survival to let parts go, like salamanders loose their tale,
+  or why some fish have chosen to evolve and live on land.
+  
+  So if software is an organism, than do we know any software that was a dinosaur?
+  Does anybody remember OS2/Warp? Nope, well there you have it. 
+  Who here still uses Windows 95/98? or windows XP?
+  When software can no longer effectively change it dies, 
+  and hopefully your company has either started fresh or it dies with the software.
+  When nobody can understand the code no more, it is effectively frozen and can no longer change.
+  When your software is heavy with features that nobody needs, when it does the wrong things, 
+  or does the right things badly. It will not survive.
+  when in doubt you should make software that is easily changed.
+  write Unit test to ensure features work, and keep working when you are changing things. 
+  write short functions with clear names that people can easily understand and change.
+  throw away things that nobody uses, let your software evolve.
+-----
+  So what is software?
+  Software is software, what matters is who makes it.  
+  In the world of software each one of you is a god.
+  So make software that can survive in a fast changing world
 
-The ability to change behaviour in a short time, with little risk.
-
+------  
+  So to conclude; my message is this:
+  In the world of software each one of you is a god, and responsible for the survival of both your software and the company that relies on it.
+  Make software than can be changed. Write code that other can understand, keep it simple.
+  Throw away things that don't work, and start over. 
+  
+  
+  
+   
+  
+   
+  
