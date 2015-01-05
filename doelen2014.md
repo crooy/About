@@ -1,18 +1,18 @@
 Overal:
 -----------
-- [ ] I will outsource or cut, at least two recurring tasks, in order to spend more
+- [x] I will outsource or cut, at least two recurring tasks, in order to spend more
   energy on other things.
 
 Emotional:
 -----------
 - [ ] In 2014, more than before, I remain calm and intelligent instead
   of worrying. 
-- [ ] In 2014, I will be kind to at least two people, whom I would
+- [x] In 2014, I will be kind to at least two people, whom I would
   otherwise ignore.
 
 Social:
 -----------
-- [ ] I must spend some time every 2 months with all friends and family 
+- [x] I must spend some time every 2 months with all friends and family 
 
 Physical:
 -----------
@@ -22,7 +22,7 @@ Physical:
 Material:
 -----------
 - [ ] Cut back at least 60 euro in monthly costs
-- [ ] Finish the layout and infrastructure of the garden
+- [x] Finish the layout and infrastructure of the garden
 - [ ] Get a stone BBQ
 
 
