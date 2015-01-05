@@ -6,10 +6,6 @@ Emotional:
 -----------
 - [ ] Become a good dad, who spents at least one full day with his child(ren) every week
 
-Social:
------------
-- [x] I must spend some time every 2 months with all friends and family 
-
 Physical:
 -----------
 - [ ] At least one hour of sports every week.
