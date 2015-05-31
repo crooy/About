@@ -24,7 +24,7 @@ Social:
   1. I must not forget to spend time on friends and family
   2. I allow myself to work hard, but I maintain a healthy balance.
   3. I must never underestimate others.
-  4. I actually listen to people
+  4. I actually listen to people... ok, I try to listen.
 
 
 Fysical:
