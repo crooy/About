@@ -9,6 +9,7 @@ Overal:
   2. There is always good food and drinks in my house.
   3. Ik blijf actief uitdagingen en vernieuwing zoeken.
   3. I keep challenging myself and others.
+  4. Happy wife happy life
 
 Emotional:
 -----------
