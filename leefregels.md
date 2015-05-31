@@ -15,7 +15,7 @@ Emotional:
 -----------
 
   1. I only spend energy on things that matter.
-  2. Do not worry
+  2. Do not worry, worrying is like a rocking-chair, it gives you something to do but does not get you anywhere.
   
 
 Social:
