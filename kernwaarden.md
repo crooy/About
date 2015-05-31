@@ -1,4 +1,4 @@
    * enthousiasme en actie
-   * vrij en verantwoordelijk
+   * onafhankelijkheid
    * oprecht
    * schoonheid 
