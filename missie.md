@@ -5,7 +5,7 @@ I either let go of my worries, or I take responsibility.
 
 I do the above with friends and family 
 but mostly with my wife and children, 
-for whom I provide and protect.
+whom I provide for and protect.
 
 I surround myself with people who are
 inspiring, dedicated, fun, and most of all smart.
