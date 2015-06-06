@@ -8,7 +8,8 @@ but mostly with my wife and children,
 whom I provide for and protect.
 
 I surround myself with people who are
-inspiring, dedicated, fun, and most of all smart.
+progressive, transparant,
+and most of all smart.
 They challenge my opinions, teach me, and learn from me. 
 
  
