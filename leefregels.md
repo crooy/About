@@ -16,6 +16,8 @@ Emotional:
 
   1. I only spend energy on things that matter.
   2. Do not worry, worrying is like a rocking-chair, it gives you something to do but does not get you anywhere.
+  3. I spend at least one full day per week without distractions with my kid(s).
+  4. When I am at home I am a dad, and a husband, not a programmer.
   
 
 Social:
@@ -38,6 +40,8 @@ Material:
   1. When I buy something, something else must go.
   2. I do not own junk, only quality, preferably old quality
   3. I take care of my family
+  4. I will maintain a clean and organized home, with groceries for at least 3 out of 5 workdays every week. 
+      At bedtime the table will be empty, and the kitchen will be clean. 
 
 
 Professional:
