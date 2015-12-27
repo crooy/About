@@ -16,8 +16,7 @@ Emotional:
 
   1. I only spend energy on things that matter.
   2. Do not worry, worrying is like a rocking-chair, it gives you something to do but does not get you anywhere.
-  3. I spend at least one full day per week without distractions with my kid(s).
-  4. When I am at home I am a dad, and a husband, not a programmer.
+  3. When I am at home I am a dad, and a husband, not a programmer.
   
 
 Social:
