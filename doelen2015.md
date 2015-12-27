@@ -4,7 +4,7 @@ Overal:
 
 Emotional:
 -----------
-- [x] Become a good dad, who spents at least one full day with his child(ren) every week
+- [x] Become a good dad, who spends at least one full day with his child(ren) every week
 
 Physical:
 -----------
