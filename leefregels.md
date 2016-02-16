@@ -48,4 +48,5 @@ Professional:
 --------------
 
   1. I must plan, and re-plan, and keep track of planning
+  2. Life is long, sucking is temporary. Keep getting better, keep learning.
 
