@@ -1,7 +1,7 @@
 Overal:
 -----------
 - [ ] I will help Judith to find balance in being a mother, a gardener, a working person, etc.
-- [ ] I will help Judith to create an automated greenhouse with at least one sensor and reporting system finished this year.
+- [x] I will help Judith to create an ~~automated~~ greenhouse with at least one sensor and reporting system finished this year.
 
 Emotional:
 -----------
@@ -14,7 +14,7 @@ Physical:
 Material:
 -----------
 - [ ] Finish the bathroom, kitchen and mudroom
-- [ ] Replace the sewer
+- [x] Replace the sewer
 
 
 Professional:
