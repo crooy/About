@@ -1,6 +1,6 @@
 Overal:
 -----------
-- [ ] I will help Judith to find balance in being a mother, a gardener, a working person, etc.
+- [x ] I will help Judith to find balance in being a mother, a gardener, a working person, etc.
 - [x] I will help Judith to create an ~~automated~~ greenhouse with at least one sensor and reporting system finished this year.
 
 Emotional:
