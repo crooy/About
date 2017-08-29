@@ -3,11 +3,9 @@ Overal:
 ---------
 
   1. Do or do not, there is not try.
-  2. Ik waak ervoor dat ik mijn focus bewaar en niet in routine val.
   2. I do not let myself get distracted by routine life.
   1. I always have a fun thing planned
   2. There is always good food and drinks in my house.
-  3. Ik blijf actief uitdagingen en vernieuwing zoeken.
   3. I keep challenging myself and others.
   4. Happy wife happy life
 
@@ -32,7 +30,8 @@ Social:
 Fysical:
 -------
 
-  1. I am fit, period.
+  1. I am fit an flexible (yoga).
+  2. I do water sports.
 
 Material:
 ---------
@@ -47,6 +46,7 @@ Material:
 Professional:
 --------------
 
-  1. I must plan, and re-plan, and keep track of planning
+  1. I must have somebody with me who is good at planning and keeping structure.
   2. Life is long, sucking is temporary. Keep getting better, keep learning.
+  3. I work pragmatic but while keeping an eye on idealistic plans.
 
