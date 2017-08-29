@@ -8,6 +8,7 @@ Overal:
   2. There is always good food and drinks in my house.
   3. I keep challenging myself and others.
   4. Happy wife happy life
+  5. Be a good role model for my kids
 
 Emotional:
 -----------
