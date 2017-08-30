@@ -1,10 +1,9 @@
 
 Physical:
 -----------
-- [x] Take up yoga or tai chi to stay flexible
-- [x] One hour of sports per week
+- [/] Take up yoga or tai chi to stay flexible
+- [/] One hour of sports per week
 - [x] learn (wave)surfing
-- [ ] learn sailing
 
 Parental:
 ---------
