@@ -16,8 +16,7 @@ Emotional:
   1. I only spend energy on things that matter.
   2. Do not worry, worrying is like a rocking-chair, it gives you something to do but does not get you anywhere.
   3. When I am at home I am a dad, and a husband, not a programmer.
-  4. Whatever I do, it is more fun with Judith.
-  
+  4. Whatever I do, it is more fun with the family.
 
 Social:
 -------
@@ -25,7 +24,7 @@ Social:
   1. I must not forget to spend time on friends and family
   2. I allow myself to work hard, but I maintain a healthy balance.
   3. I must never underestimate others.
-  4. I actually listen to people... ok, I try to listen.
+  4. I actually listen to people... ok, I try to listen. no but really i listen.
 
 
 Fysical:
