@@ -32,6 +32,7 @@ Fysical:
 
   1. I am fit an flexible (yoga).
   2. I do water sports.
+  3. The bicycle is always faster, better, cheaper.
 
 Material:
 ---------
@@ -49,4 +50,5 @@ Professional:
   1. I must have somebody with me who is good at planning and keeping structure.
   2. Life is long, sucking is temporary. Keep getting better, keep learning.
   3. I work pragmatic but while keeping an eye on idealistic plans.
+  4. I inspire others to strive for greatness, not just mediocracy.
 
