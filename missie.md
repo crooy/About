@@ -18,7 +18,7 @@ I never stop being a kid,
 I surround myself with people who are
 progressive, transparant,
 and most of all smart.
-They challenge my opinions, teach me, and learn from me. 
+They challenge my opinions, teach me, and learn from me, and I help them, teach them, and inspire them.
 
  
 
