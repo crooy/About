@@ -1,8 +1,9 @@
 
 Physical:
 -----------
-- [ ] drink less alcohol, and dont get wasted at parties.
-- [ ] go surfing at least 5 times in 2020
+- [ ] ~drink less alcohol, and dont get wasted at parties.~
+- [ ] keep doing sports even during lockdowns
+- [ ] go surfing at least ~5~ 3 times in 2020
  
 Emotional:
 ----------
@@ -13,9 +14,9 @@ Emotional:
 Material:
 -----------
 - [ ] limit weekend fancy cooking costs to 40 euro 
-- [/] build a light, easy to clean shed/workshop/garage i can on budget
+- [x] build a light, easy to clean shed/workshop/garage i can on budget
 - [/] kondo-clean the house
-- [ ] re-roof the greenhouse
+- [x] re-roof the greenhouse
 - [ ] finally make outdoor kitchen
 
 Professional:
