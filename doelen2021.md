@@ -1,7 +1,7 @@
 
 Physical:
 -----------
-- [ ] keep doing yoga weekly
+- [ ] keep doing yoga weekly/daily
 - [ ] go outdoors daily
  
 Emotional:
@@ -18,6 +18,7 @@ Material:
 Professional:
 -----------
 - [ ] keep things simple
+- [ ] always have a pet coding project to overengineeer
 
 Health:
 -----------
