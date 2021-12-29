@@ -13,6 +13,7 @@ Material:
 -----------
 - [ ] build a small cabin in the garden
 - [ ] fix the greenhouse walls
+- [ ] Build a new storage shed
 - [x] dont buy a car, dont rent a car, use the bike
 
 Professional:
