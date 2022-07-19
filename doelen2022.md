@@ -12,8 +12,8 @@ Emotional:
 Material:
 -----------
 - [ ] build a small cabin in the garden
-- [ ] (outsource) kitchen extension
-- [ ] (outsource/DIY) Heat recovery ventilation system
+- [ ] build kitchen extension
+- [ ] Go gas-less
 - [ ] build an attic bedroom
 - [ ] build a sewing workshop for the wife
 
@@ -21,6 +21,7 @@ Professional:
 -----------
 - [ ] keep things simple
 - [ ] always have a pet coding project to overengineeer
+- [ ] Keep helping volt
 
 Health:
 -----------
