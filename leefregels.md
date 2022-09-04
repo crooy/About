@@ -27,12 +27,13 @@ Social:
   4. I actually listen to people... ok, I try to listen. no but really i listen.
 
 
-Fysical:
+Health:
 -------
 
   1. I am fit an flexible (yoga).
   2. I do water sports.
   3. The bicycle is always faster, better, cheaper.
+  4. I cook healthy food, and serve them plated instead of putting pots and pans on the table
 
 Material:
 ---------
@@ -42,6 +43,7 @@ Material:
   3. I take care of my family
   4. I will maintain a clean and organized home, with groceries for at least 3 out of 5 workdays every week. 
       At bedtime the table will be empty, and the kitchen will be clean. 
+  5. the local-home-improvement-store is for last minute stuff, planned work is well specified and everything (plus spare) is ordered specifically online.
 
 
 Professional:
@@ -51,4 +53,5 @@ Professional:
   2. Life is long, sucking is temporary. Keep getting better, keep learning.
   3. I work pragmatic but while keeping an eye on idealistic plans.
   4. I inspire others to strive for greatness, not just mediocracy.
+  5. My work must have a point, ideally it really matters.
 
