@@ -1,4 +1,4 @@
-I Make things,
+I Make things that matter,
 I work hard, 
 I start things, 
 I enjoy and need freedom at work,
