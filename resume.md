@@ -21,7 +21,7 @@ but what I love about engineering mostly is the idea that we can take control an
 
 For me entrepeneurship is strongly tied to engineering, taking initiaitve, coming up a new idea, thinking creatively, not waiting for other to pick up tasks, these are all aspects that are as important for engineers as they are for entrepeneurs. 
 
-In general I love activities in which I can find *flow*, surfing, walking with the dog in the forest, cooking, researching or learning about things, these are all activities that I can easily lose myself in.
+In general I love activities in which I can find *flow*, like surfing, walking with the dog in the forest, cooking, researching or learning about things, these are all activities that I can easily lose myself in.
 
 Finally I am a parent, for me that means that I can share my knowledge and experience, something which I gladly do with colleagues if they are open to it. It means practicing patience and stoicism, the ability to let go of negative emotions quickly and focus on the good things.
 
