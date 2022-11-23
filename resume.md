@@ -110,6 +110,9 @@ Before ZIO existed, when we just started using ScalaZ, I implemented our own ver
 ### Domain Driven Design
 At some point when Withlocals was a success, when we felt confident in our business model and its value, we started looking at our architecture and organization from a Domain Driven Design perspective. This was a longer, on the side project, which proved to be a great guide for our architecture as a whole. It enabled us to define which things belonged in separate modules or not, it provided us with a structured way of discussing the architecture and organization as a whole. 
 
+### Migrating from AWS to GCP
+Google gave us money, so we moved our entire stack to GCP in a matter of weeks. With zero downtime!! By employing some mysql replication magic and a bit of extra code in our backend we wrote, we were able to migrate without any downtime from AWS Elastic Beanstalk + Aurora to Google GKE.
+
 ### Event sourcing magic
 For V2 of our booking system, easily the most complex part, we implemented an event sourced version of the booking concept. A booking system is very little CRUD and most of the changes are result of important events like confirming a booking, finishing or starting payment etc. I learned the power of this system, but also that using this for CRUD things is probably not a great idea.
 
@@ -145,7 +148,6 @@ Technology skills:
  - Postgraphile
  - Postgresql
 
-
 CS Skills:
  - Domain Driven Design
  - Functional programming
@@ -155,7 +157,6 @@ CS Skills:
  - Data engineering
  - Mobile development (cordova, PWA)
  - Silent meetings
-
 
 More details:
 ------------
@@ -203,5 +204,3 @@ Most stupid mistakes I made:
  - working too many hours, too long days, and doing complex things on the way out at friday 18.00, thus making a stupid mistakes, like accidentally deleting the entire Elastic beanstalk environment causing all our servers to be removed. Although I managed to bring it all back in less than 30 minutes from backups, without any dataloss reported.
  - Picking MySQL when I could have just picked Postgres
  - Storing too much data in the frontend, or too much business logic for that matter.
- - Giving up a seat at the management table
- - Arguing with the technical due-dillegence person about monolith vs micro-services 
