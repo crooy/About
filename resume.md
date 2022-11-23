@@ -27,12 +27,11 @@ Finally I am a parent, for me that means that I can share my knowledge and exper
 Education
 ---------
 
-2000-2008 
-:   **Master, Computer Science**; Eindhoven University of Technology
+**Master, Computer Science**; Eindhoven University of Technology 2000-2008 
 
-    *Thesis title: Cycle Time Prediction: When Will This Case Finally Be Finished?*
-    Adapted version of which is published in Lecture Notes in Computer Science, 2008, Volume 5331/2008, 319-336 · Jan 1, 2008
-    [Link](https://link.springer.com/chapter/10.1007/978-3-540-88871-0_22)
+*Thesis title: Cycle Time Prediction: When Will This Case Finally Be Finished?*
+Adapted version of which is published in Lecture Notes in Computer Science, 2008, Volume 5331/2008, 319-336 · Jan 1, 2008
+[Link](https://link.springer.com/chapter/10.1007/978-3-540-88871-0_22)
 
 Experience
 ----------
@@ -52,42 +51,10 @@ my time programming, architecting and doing devops.
 
 I've learned so much here, its going to get its own chapter further in this document.
 
-Technology used:
- - Javascript
- - Typescript
- - Coffeescript
- - Scala
- - ScalaZ
- - ZIO
- - Prometheus
- - SQL
- - Akka
- - Play Framework
- - MySQL
- - AWS
- - Google Cloud
- - Deno
- - Node
- - Python
- - Airflow
- - Bigquery
- - ... many more
-
-CS Skills:
- - Domain Driven Design
- - Functional programming
- - Object Oriented Programming
- - Agile Scrum, Kanban
- - Waterfall
- - Data engineering
- - Mobile development (cordova, PWA)
- - 
-
 **Volt, European Data team**
 
-As a volounteer for the political party Volt, i build a small PWA to track the distribution of posters for the German campaigns.
-The app was build as a PWA using React, talking to a PostGraphile generated GraphQL api on top of a AWS Serverless Aurora Postgress database. The entire backend runs on AWS serverless, thus scaling to zero outside of campaiging time. 
-The PWA is offline-first, a requirement for poor German cell phone reception, using RxDb on the device to store all data and sync when required.
+As a volounteer for the political party Volt, i build a small PWA to track the distribution of posters for the German campaigns. The app was built on request, and is to this day a volounteer project of mine.
+
 
 **Sioux Remote Solutions**
 *placed via Sioux*
@@ -139,6 +106,47 @@ For V2 of our booking system, easily the most complex part, we implemented an ev
 
 ### Offline first PWA
 For Volt I made an offline first PWA, the challenges here were mostly around deploying improvements or fixes. Once distributed, you have to make sure any future version of software can upgrade from this point without corrupting data. This proved to be probably the most complex part. Of course users used the app wrong, in unintend ways, so you have to make changes without breaking things. Especially this happens during an active campaign, making this volounteer work quite a bit more stressful.
+
+
+Technology skills:
+---------------
+ - Javascript
+ - Typescript
+ - Coffeescript
+ - Scala
+ - ScalaZ
+ - ZIO
+ - Prometheus
+ - SQL
+ - Akka
+ - Play Framework
+ - MySQL
+ - AWS
+ - Google Cloud
+ - Deno
+ - Node
+ - Python
+ - Airflow
+ - Bigquery
+ - Angular 1.x
+ - PHP Zend framework
+ - NextJS
+ - IPFS
+ - RxDB
+ - Postgraphile
+ - Postgresql
+
+
+CS Skills:
+ - Domain Driven Design
+ - Functional programming
+ - Object Oriented Programming
+ - Agile Scrum, Kanban
+ - Waterfall
+ - Data engineering
+ - Mobile development (cordova, PWA)
+ - Silent meetings
+
 
 More details:
 ------------
