@@ -105,7 +105,7 @@ I build, in a short week, a Akka-Http event collector + JS-tracker named Bitterb
 I stole the api-design (not the implementation) for the JS-tracker from the library for Segment, essentially sending events to multiple tools (GA, TrackJS, and more). Our own collecter simply parsed and validated the JSON that was POST'ed, and stored them in a Bigquery instance. The design is simple, but the tool was insanely efficient, never crashing, scaling when needed, we have not made a single change or bugfix after launch. 
 
 ### FP skills
-Before ZIO existed, when we just started using ScalaZ, I implement our own version of the IO monad. Using a set of implicit classes and `ScalaZ's EitherT[Future, ErrorMessage, T]`, I made a easy to use and very fluent type called a `TaskResult`. Combining various nice helpers it made it very easy to chain async operations, flatmap/for-yield over their results and return things over an API. When I learned about ZIO, ofcourse I banged my head as I encountered the lack of an Environment type, but it proved too complex to add this feature and/or migrate to ZIO, so sadly we missed that part.
+Before ZIO existed, when we just started using ScalaZ, I implemented our own version of the IO monad. Using a set of implicit classes and ScalaZ's `EitherT[Future, ErrorMessage, T]`, I made a easy to use and very fluent type called a `TaskResult[T]`. Combining various nice helpers it made it very easy to chain async operations, flatmap/for-yield over their results and return things over an API. When I learned about ZIO, ofcourse I banged my head as I encountered the lack of an Environment type, but it proved too complex to add this feature and/or migrate to ZIO, so sadly we missed that part.
 
 ### Domain Driven Design
 At some point when Withlocals was a success, when we felt confident in our business model and its value, we started looking at our architecture and organization from a Domain Driven Design perspective. This was a longer, on the side project, which proved to be a great guide for our architecture as a whole. It enabled us to define which things belonged in separate modules or not, it provided us with a structured way of discussing the architecture and organization as a whole. 
@@ -204,3 +204,4 @@ Most stupid mistakes I made:
  - Picking MySQL when I could have just picked Postgres
  - Storing too much data in the frontend, or too much business logic for that matter.
  - Giving up a seat at the management table
+ - Arguing with the technical due-dillegence person about monolith vs micro-services 
