@@ -63,7 +63,7 @@ As a volounteer for the political party Volt, i build a small PWA to track the d
 
 For 2 years I worked on a project that enabled connecting to machines remotely, with the purpose of gathering metrics, doing maintenance and taking control. My work involved programming in C++ and C#, and parsing lots of existing projects, documentation etc. The company did not keep developer for long as it was an in-house project of the parent company, as a result the quality of code and documention was required to be high to simplify hand-overs to new developers.
 
-I learned how to work in a structed process, how to deal with large existing codebases that are not forever yours to maintain. Also I got to play with electronics, solder wires, connect computers to machines and visit machines on site, which was fun.
+I learned how to work in a structured process, how to deal with large existing codebases that are not forever yours to maintain. Also I got to play with electronics, solder wires, connect computers to machines and visit machines on site, which was fun.
 
 **ASML: 3 years**
 *placed via Sioux Embedded Systems*
