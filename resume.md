@@ -2,14 +2,14 @@ Ronald Crooy
 ============
 
 Data:
- - Hometown:  **Geldrop (near Eindhoven)**
- - Country: **the Netherlands**
- - Birthyear:  **1982**
- - Preferred occupation: **software developer, entrepreneur**
- - Motto: **Strong opinions held weakly**
- - Highest education: **Computer science Master degree**
- - Philosophy/religion: **stoic, atheist**
- - LinkedIn: [in/racrooy](https://www.linkedin.com/in/racrooy/)
+- Hometown:  **Geldrop (near Eindhoven)**
+- Country: **the Netherlands**
+- Birthyear:  **1982**
+- Preferred occupation: **software developer, entrepreneur**
+- Motto: **Strong opinions held weakly**
+- Highest education: **Computer science Master degree**
+- Philosophy/religion: **stoic, atheist**
+- LinkedIn: [in/racrooy](https://www.linkedin.com/in/racrooy/)
 
 
 Who is Ronald?
@@ -38,7 +38,7 @@ An adapted version, shorter and better written, was published in Lecture Notes i
 Experience
 ----------
 
-**Withlocals: 9 years**
+### Withlocals: 9 years
 
 I co-founded Withlocals as the sole software developer, this means I build everything initially.
 The first 2 years my technical co-workers were interns or freelancers, during this time our entire stack was built.
@@ -53,19 +53,19 @@ my time programming, architecting and doing devops.
 
 I've learned so much here, its going to get its own chapter further in this document.
 
-**Volt, European Data team: 2 years**
+### Volt, European Data team: 2 years
 
 As a volounteer for the political party Volt, i build a small PWA to track the distribution of posters for the German campaigns. The app was built on request, and is to this day a volounteer project of mine.
 
 
-**Sioux Remote Solutions: 1.5 years**
+### Sioux Remote Solutions: 1.5 years
 *placed via Sioux Embedded Systems*
 
 For 2 years I worked on a project that enabled connecting to machines remotely, with the purpose of gathering metrics, doing maintenance and taking control. My work involved programming in C++ and C#, and parsing lots of existing projects, documentation etc. The company did not keep developer for long as it was an in-house project of the parent company, as a result the quality of code and documention was required to be high to simplify hand-overs to new developers.
 
 I learned how to work in a structured process, how to deal with large existing codebases that are not forever yours to maintain. Also I got to play with electronics, solder wires, connect computers to machines and visit machines on site, which was fun.
 
-**ASML: 3 years**
+### ASML: 3 years
 *placed via Sioux Embedded Systems*
 
 At ASML I started as young developer fresh out of University, I was mentored by a bunch of older engineers of every type of background. ASML employs a great number of different type of engineers, physicists, and mechanics, and my first desk was situated next to a think tank from whom I learned a lot about everything related to engineering. I tagged along my mentors as I walked the halls, drinked coffee with stakeholders, sat in many meetings above my paygrade as a fly on the wall.
