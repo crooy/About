@@ -68,7 +68,7 @@ I learned how to work in a structured process, how to deal with large existing c
 **ASML: 3 years**
 *placed via Sioux Embedded Systems*
 
-At ASML I started as young developer fresh out of University, I was mentored by a bunch of older engineers of every type of background. ASML employs a great number of different type of engineers, physicists, and mechanics, from whom I learned a lot. I tagged along my mentors as I walked the halls, drinked coffee with stakeholders, sat in many meetings above my paygrade as a fly on the wall.
+At ASML I started as young developer fresh out of University, I was mentored by a bunch of older engineers of every type of background. ASML employs a great number of different type of engineers, physicists, and mechanics, and my first desk was situated next to a think tank from whom I learned a lot about everything related to engineering. I tagged along my mentors as I walked the halls, drinked coffee with stakeholders, sat in many meetings above my paygrade as a fly on the wall.
 
 I learned how to not just build what was asked for, but what was needed, by really listening to your stakeholder and trying to place yourself in their shoes. Also in hindsight I learned you dont need a process in a tiny development team with experienced developers, you can just iterate and build things while talking extensively to your users.
 
