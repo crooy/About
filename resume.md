@@ -9,6 +9,7 @@ Data:
  - Motto: **Strong opinions held weakly**
  - Highest education: **Computer science Master degree**
  - Philosophy/religion: **stoic, atheist**
+ - LinkedIn: [in/racrooy](https://www.linkedin.com/in/racrooy/)
 
 
 Who is Ronald?
