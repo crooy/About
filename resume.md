@@ -29,8 +29,9 @@ Education
 
 **Master, Computer Science**; Eindhoven University of Technology 2000-2008 
 
-*Thesis title: Cycle Time Prediction: When Will This Case Finally Be Finished?*
-Adapted version of which is published in Lecture Notes in Computer Science, 2008, Volume 5331/2008, 319-336 · Jan 1, 2008
+Thesis title:  *Cycle Time Prediction: When Will This Case Finally Be Finished?*
+
+An adapted version, shorter and better written, was published in Lecture Notes in Computer Science, 2008, Volume 5331/2008, 319-336 · Jan 1, 2008
 [Link](https://link.springer.com/chapter/10.1007/978-3-540-88871-0_22)
 
 Experience
@@ -51,19 +52,19 @@ my time programming, architecting and doing devops.
 
 I've learned so much here, its going to get its own chapter further in this document.
 
-**Volt, European Data team**
+**Volt, European Data team: 2 years**
 
 As a volounteer for the political party Volt, i build a small PWA to track the distribution of posters for the German campaigns. The app was built on request, and is to this day a volounteer project of mine.
 
 
-**Sioux Remote Solutions**
+**Sioux Remote Solutions: 1.5 years**
 *placed via Sioux*
 
 For 2 years I worked on a project that enabled connecting to machines remotely, with the purpose of gathering metrics, doing maintenance and taking control. My work involved programming in C++ and C#, and parsing lots of existing projects, documentation etc. The company did not keep developer for long as it was an in-house project of the parent company, as a result the quality of code and documention was required to be high to simplify hand-overs to new developers.
 
 I learned how to work in a structed process, how to deal with large existing codebases that are not forever yours to maintain. Also I got to play with elektronics, solder wires, connect computers to machines and visit machines on site, which was fun.
 
-**ASML**
+**ASML: 3 years**
 *placed via Sioux*
 
 At ASML I started as young developer fresh of University, I was taking in a bunch of older engineers of every type of background. ASML employs a great number of different type of engineers, physicists, and mechanics, from whom I learned a lot. I tagged along my mentors as I walked the halls, drinked coffee with stakeholders, sat in many meetings above my paygrade as a fly on the wall.
@@ -76,7 +77,7 @@ History of my Technical Experience
 
 At ASML I worked in PHP and Java, connecting many datasources into a single MySQL for reporting. The job was essentially to make complex down-drillable reports in Zend Framework (php) with the data that was imported hourly or daily from various sources. Essentially it was data-engineering before that name was popular.
 
-At Sioux I worked in C# (with  SQL Server) for the backend part, and C++ with a entirly custom application for the client that was running on various types of machines. I also had my first experience with electronics here.
+At Sioux I worked in C# (with  SQL Server) for the backend part, and C++ with a entirely custom application for the client that was running on various types of machines. I also had my first experience with electronics here.
 
 At Sioux I got a couple days training by Martin Odersky in 2012 (I think), after which I was itching to use it. At Withlocals I decided with Play framework it was a good choice (2013), together with Anorm+MySQL and Angular 1.x on coffeescript I build the MVP.
 Later we ditched coffeescript for plain Javascript (ES6) with ReactJS. Coffeescript's whitespace significance was just too sensitive for errors, and I never liked Angular. Later we switched the fronted codebase to Typescript, which I can honestly say I love.
@@ -85,14 +86,16 @@ Over the years I learned how to properly use AWS/GCP, I started with manually ma
 
 Our Scala codebase stayed for the most part in Play Framework, we upgraded Scala versions, ending in 2.13 with the planning to move to 3.x in the future. We added some extra separate projects (micro-ish services) in Akka-http, and lately one using ZIO. All in all Scala is at this point my preferred language if I would have to build a custom thing, I use it every year when I do the advent-of-code. 
 
-Noteworty things I made
+Noteworty things I made/did
 -----------------------
 
 ### Complex Syncing 
 At ASML I build a synchronization which read XML files and imported them into a MYSQL. Every hour we checked what changed in an Oracle Database, comparing and filtering which files required reading. We then read the XML files, containing the bill of material (a tree with sub-components) of a single component and many more attributes.  On a daily basis we also pulled other details on components from SAP, thus combining multiple data sources.
 The resulting trees with parts of the ASML machines, were then rolled up to simplify aggregation for a set of specific reports.
 
-At Withlocals:
+### Bugfix in C++ custom String implementation
+I encountered, debugged, tracked down and fixed a bug in a custom String implementation in C++. The 
+implementation had copy on write, and obviously the bug was related to multi-threading. This was in my early career, and this bug alone taught me the complexities of multi-threading and memory. Also I try not to use C++ if I can avoid it due to this experience.
 
 ### Event collector + tracker
 I build, in a short week, a Akka-Http event collector + JS-tracker named Bitterbal to replace a large, complex and overly generic Snowplow setup. 
@@ -189,3 +192,9 @@ Hobbies:
  - Cooking
  - Debating anything over a drink
  - Parenting
+
+Most stupid mistakes I made:
+ - working too many hours, too long days, and doing complex things on the way out at friday 18.00, thus making a stupid mistakes, like accidentally deleting the entire Elastic beanstalk environment causing all our servers to be removed. Although I managed to bring it all back in less than 30 minutes from backups, without any dataloss reported.
+ - Picking MySQL when I could have just picked Postgres
+ - Putting complex business logic in the frontend
+ - Giving up a seat at the management table
