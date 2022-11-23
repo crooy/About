@@ -147,6 +147,9 @@ Technology skills:
  - RxDB
  - Postgraphile
  - Postgresql
+ - Jenkins
+ - Kubernetes
+ - Cordova
 
 CS Skills:
  - Domain Driven Design
@@ -157,6 +160,8 @@ CS Skills:
  - Data engineering
  - Mobile development (cordova, PWA)
  - Silent meetings
+ - CI/CD
+
 
 More details:
 ------------
