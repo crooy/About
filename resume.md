@@ -58,14 +58,14 @@ As a volounteer for the political party Volt, i build a small PWA to track the d
 
 
 **Sioux Remote Solutions: 1.5 years**
-*placed via Sioux*
+*placed via Sioux Embedded Systems*
 
 For 2 years I worked on a project that enabled connecting to machines remotely, with the purpose of gathering metrics, doing maintenance and taking control. My work involved programming in C++ and C#, and parsing lots of existing projects, documentation etc. The company did not keep developer for long as it was an in-house project of the parent company, as a result the quality of code and documention was required to be high to simplify hand-overs to new developers.
 
 I learned how to work in a structed process, how to deal with large existing codebases that are not forever yours to maintain. Also I got to play with elektronics, solder wires, connect computers to machines and visit machines on site, which was fun.
 
 **ASML: 3 years**
-*placed via Sioux*
+*placed via Sioux Embedded Systems*
 
 At ASML I started as young developer fresh of University, I was taking in a bunch of older engineers of every type of background. ASML employs a great number of different type of engineers, physicists, and mechanics, from whom I learned a lot. I tagged along my mentors as I walked the halls, drinked coffee with stakeholders, sat in many meetings above my paygrade as a fly on the wall.
 
@@ -89,6 +89,8 @@ Our Scala codebase stayed for the most part in Play Framework, we upgraded Scala
 Noteworty things I made/did
 -----------------------
 
+Big or small, these are things I remember vividly. I am omitting a lot of things I build over the last 9 years as founder, but these things I picked out due to noteworty-ness.
+
 ### Complex Syncing 
 At ASML I build a synchronization which read XML files and imported them into a MYSQL. Every hour we checked what changed in an Oracle Database, comparing and filtering which files required reading. We then read the XML files, containing the bill of material (a tree with sub-components) of a single component and many more attributes.  On a daily basis we also pulled other details on components from SAP, thus combining multiple data sources.
 The resulting trees with parts of the ASML machines, were then rolled up to simplify aggregation for a set of specific reports.
@@ -103,6 +105,9 @@ I stole the api-design (not the implementation) for the JS-tracker from the libr
 
 ### FP skills
 Before ZIO existed, when we just started using ScalaZ, I implement our own version of the IO monad. Using a set of implicit classes and `ScalaZ's EitherT[Future, ErrorMessage, T]`, I made a easy to use and very fluent type called a `TaskResult`. Combining various nice helpers it made it very easy to chain async operations, flatmap/for-yield over their results and return things over an API. When I learned about ZIO, ofcourse I banged my head as I encountered the lack of an Environment type, but it proved too complex to add this feature and/or migrate to ZIO, so sadly we missed that part.
+
+### Domain Driven Design
+At some point when Withlocals was a success, when we felt confident in our business model and its value, we started looking at our architecture and organization from a Domain Driven Design perspective. This was a longer, on the side project, which proved to be a great guide for our architecture as a whole. It enabled us to define which things belonged in separate modules or not, it provided us with a structured way of discussing the architecture and organization as a whole. 
 
 ### Event sourcing magic
 For V2 of our booking system, easily the most complex part, we implemented an event sourced version of the booking concept. A booking system is very little CRUD and most of the changes are result of important events like confirming a booking, finishing or starting payment etc. I learned the power of this system, but also that using this for CRUD things is probably not a great idea.
@@ -196,5 +201,5 @@ Hobbies:
 Most stupid mistakes I made:
  - working too many hours, too long days, and doing complex things on the way out at friday 18.00, thus making a stupid mistakes, like accidentally deleting the entire Elastic beanstalk environment causing all our servers to be removed. Although I managed to bring it all back in less than 30 minutes from backups, without any dataloss reported.
  - Picking MySQL when I could have just picked Postgres
- - Putting complex business logic in the frontend
+ - Storing too much data in the frontend, or too much business logic for that matter.
  - Giving up a seat at the management table
