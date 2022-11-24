@@ -36,7 +36,7 @@ Thesis title:  *Cycle Time Prediction: When Will This Case Finally Be Finished?*
 An adapted version, shorter and better written, was published in Lecture Notes in Computer Science, 2008, Volume 5331/2008, 319-336 · Jan 1, 2008
 [Link](https://link.springer.com/chapter/10.1007/978-3-540-88871-0_22)
 
-Experience
+Where I worked
 ----------
 
 ### Withlocals: 9 years
@@ -81,7 +81,7 @@ At ASML I worked in PHP and Java, connecting many datasources into a single MySQ
 
 At Sioux I worked in C# (with  SQL Server) for the backend part, and C++ with a entirely custom application for the client that was running on various types of machines. I also had my first experience with electronics here.
 
-At Sioux I got a couple days training by Martin Odersky in 2012 (I think), after which I was itching to use it. At Withlocals I decided with Play framework it was a good choice (2013), together with Anorm+MySQL and Angular 1.x on coffeescript I build the MVP.
+At Sioux I got a couple days Scala training by Martin Odersky in 2012 (I think), after which I was itching to use it. At Withlocals (in 2013) I decided that Scala with Play framework was a good choice, together with Anorm+MySQL and Angular 1.x on coffeescript I build the MVP.
 Later we ditched coffeescript for plain Javascript (ES6) with ReactJS. Coffeescript's whitespace significance was just too sensitive for errors, and I never liked Angular. Later we switched the fronted codebase to Typescript, which I can honestly say I love.
 
 Over the years I learned how to properly use AWS/GCP, I started with manually managed EC2 Instances, moving to AWS Elastic Beandstalk, ending in a GKE kubernetes clusters with our infrastructure as templated-yaml in a git-repo. I learned many things about devops at Withlocals.
