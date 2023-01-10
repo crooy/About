@@ -202,7 +202,7 @@ Skills:
 - Airflow
 - Bigquery
 
-### Offline first PWA
+### 2021 Offline first PWA
 For Volt I made an offline first PWA, the challenges here were mostly around deploying improvements or fixes. Once distributed, you have to make sure any future version of software can upgrade from this point without corrupting data. This proved to be probably the most complex part. Of course users used the app wrong, in unintend ways, so you have to make changes without breaking things. Especially this happens during an active campaign, making this volounteer work quite a bit more stressful.
 
 Skills:
@@ -213,6 +213,19 @@ Skills:
 - Reactjs
 - Offline first
 - RXDB
+
+### 2022 New Withlocals UI using NextJS
+
+As a concept we created a brand new simple product- & checkout-page using an Api first SaaS webshop, Auth0 and Nextjs. We proved we could quickly setup a fully working replacement for the product page and checkout page while smoothly integrating with our existing Stack.
+We had to create a couple new API's for our partner-api, as we integrated with ourselves as if we were a partner.
+
+Skills:
+- Auth0
+- Typescript
+- Reactjs
+- Scala
+- NextJS
+
 
 Technology skills:
 ---------------
