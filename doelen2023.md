@@ -29,4 +29,4 @@ Health:
 --
 - [ ] means task not done
 - [x] means achieved
-- [/] means progress but not done, or partial progress
+- 🕐 means progress but not done, or partial progress
