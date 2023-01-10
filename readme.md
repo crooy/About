@@ -4,5 +4,5 @@ However if I never read them, and few people see them, then this has no use. So 
 
 So In this repo you can find:
  - [my life mission](./missie.md)
- - [current year goals](../doelen2022.md)
+ - [current year goals](../doelen2023.md)
  - [my resume](./resume.md)
