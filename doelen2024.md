@@ -1,7 +1,8 @@
 Physical:
 -----------
-- [ ] stay with pencak silat, martial arts, become elligable for my first exam
+- [ ] stay with pencak silat
 - [ ] help train my kid to run 6km
+- [ ] help train my other kid in pencak silat + swimming lessons
 - [ ] restart asthanga yoga
  
 Emotional:
