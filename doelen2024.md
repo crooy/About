@@ -1,19 +1,19 @@
 Physical:
 -----------
-- [ ] stay with pencak silat
-- [ ] help train my kid to run 6km
-- [ ] help train my other kid in pencak silat + swimming lessons
-- [ ] restart asthanga yoga
+- [x] stay with pencak silat
+- [x] help train my kid to run 6km
+- [/] help train my other kid in pencak silat + swimming lessons
+- [x] restart asthanga yoga
  
 Emotional:
 ----------
 - [ ] find a co-working space, or an office, to go to at least 1 time a week to have a calm focussed place for myself.
-- [ ] italy roadtrip holiday
+- [x] italy roadtrip holiday
 - [ ] get back to my piano lessons
 
 Material:
 -----------
-- [ ] finish the house extension
+- [x] finish the house extension
 - [ ] start on renovating the shed
 
 Professional:
