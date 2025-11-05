@@ -1,9 +1,9 @@
 Physical:
 -----------
 - [ ] achieve the next grade in pencak silat
-- [ ] regular runs with the dog
+- [x] regular runs with the dog
 - [ ] help my kids do more sports
-- [ ] keep at yoga
+- [x] keep at yoga
  
 Emotional:
 ----------
@@ -15,7 +15,7 @@ Material:
 -----------
 - [ ] fully finish the house extension, including the very last bits
 - [ ] improve the greenhouse
-- [ ] improve our outdoor seating area
+- [x] improve our outdoor seating area
 
 Professional:
 -----------
